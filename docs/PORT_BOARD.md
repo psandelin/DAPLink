@@ -93,7 +93,7 @@ SUPPORTED_CONFIGURATIONS = [
     ...
 ]
 ```
-Configration Fields
+Configuration Fields
 * Board ID - The ID assigned to the board type.
 * Family ID - Use to select or identify target family from defined target family or custom ones. Note that common or stub families are supported which supports hw_reset, sw_vectreset or sw_sysreset. More details in [Porting target family guide](PORT_TARGET_FAMILY.md).
 * Firmware - The name of the firmware as shown in projects.yaml.
